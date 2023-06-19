@@ -17,6 +17,12 @@ step1 create a database on mysql server `tasks_mgr` then run
 if above command is not running well then run step1 command
 
 ```sh
+composer install
+```
+
+if above command is not running well then run step1 command
+
+```sh
 composer update
 ```
 step2 then generate vertual host
